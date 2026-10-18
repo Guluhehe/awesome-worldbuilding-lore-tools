@@ -52,6 +52,7 @@ Keeping kingdoms, bloodlines, magic rules, and cast arcs straight across multipl
 - [NovelCrafter](https://www.novelcrafter.com/) - Series Codex shared across books so lore and character progressions stay in sync.
 - [Plottr](https://plottr.com/) - Visual timeline and template-based plotter for series arcs and multi-POV outlines.
 - [Dabble](https://www.dabblewriter.com/) - Cloud novel writing app with plot grids, story notes, and goals.
+- [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction; PNG export.
 
 ## Maps and Cartography
 
